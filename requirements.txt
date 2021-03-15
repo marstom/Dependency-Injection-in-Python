@@ -1,0 +1,14 @@
+
+dependency-injector
+firebase-admin
+uuid
+freezegun
+
+pylint
+ipython
+ipdb
+pytest
+rope
+flake8
+autopep8
+
